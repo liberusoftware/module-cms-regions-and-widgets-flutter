@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-regions-and-widgets-flutter",
+  "capabilityKey": "liberusoftware/module-cms-regions-and-widgets",
+  "presentation": "mobile-flutter",
+  "package": "module_cms_regions_and_widgets_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/cms/nextjs/regions-and-widgets.md",
+  "presentationPlan": "projects/cms/flutter/regions-and-widgets.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
